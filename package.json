@@ -1,0 +1,8 @@
+{
+  "name": "smart-home-telemetry",
+  "version": "1.0.4",
+  "type": "module",
+  "description": "IoT telemetry gateway for smart home devices and sensors.",
+  "private": true,
+  "license": "UNLICENSED"
+}
