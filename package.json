@@ -1,8 +1,7 @@
 {
-  "name": "smart-home-telemetry",
-  "version": "1.0.4",
-  "type": "module",
-  "description": "IoT telemetry gateway for smart home devices and sensors.",
+  "name": "smart-stock-gateway",
+  "version": "3.1.0",
+  "description": "Inventory synchronization service for Kala Stock and Pro-Coffee databases.",
   "private": true,
   "license": "UNLICENSED"
 }
