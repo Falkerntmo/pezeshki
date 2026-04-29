@@ -1,12 +1,6 @@
 {
   "version": 2,
-  "name": "smart-home-telemetry",
-  "functions": {
-    "api/index.js": {
-      "memory": 128,
-      "maxDuration": 60
-    }
-  },
+  "name": "smart-stock-gateway",
   "rewrites": [
     { "source": "/(.*)", "destination": "/api/index" }
   ],
